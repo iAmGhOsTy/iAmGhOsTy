@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iAmGhOsTy
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... interests
+- 🌱 I’m currently learning ... everything i can
 - 💞️ I’m looking to collaborate on ... hmm thinking rn
 - 📫 How to reach me ... discord: G H O S T Y#2607
 
