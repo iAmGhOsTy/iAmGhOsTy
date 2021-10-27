@@ -16,3 +16,6 @@ Currently into JavaScript, HTML, CSS...
 ![coding](https://user-images.githubusercontent.com/82384593/135721846-833d636c-f5fc-45d5-9ac8-d549568b4f4c.gif)
 
   
+<a href="https://top.gg/bot/889026555454582804">
+  <img src="https://top.gg/api/widget/owner/889026555454582804.svg">
+</a>
