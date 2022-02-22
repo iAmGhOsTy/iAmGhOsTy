@@ -2,6 +2,8 @@
 
 ![DISCORD](https://discord.c99.nl/widget/theme-3/798245188413816833.png)
 
+![](https://komarev.com/ghpvc/?username=iAmGhOsTy)
+
 # Hi, I'm GhOsTy! 👋
 
   
