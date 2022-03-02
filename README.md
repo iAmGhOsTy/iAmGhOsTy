@@ -5,7 +5,10 @@
 ![](https://komarev.com/ghpvc/?username=iAmGhOsTy)
 
 # Hi, I'm GhOsTy! 👋
+  <p>
+![coding](https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif)
 
+  </p>
   
 ## 🚀 About Me
 - 👀 I’m interested in ... interests
@@ -28,9 +31,7 @@ Currently into JavaScript, HTML, CSS...
 </p>
  <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmGhOsTy&layout=compact&theme=tokyonight" />
-  <p>
- ![hello-world](https://user-images.githubusercontent.com/82384593/135721856-82f6dc74-ae30-429d-aacf-55b8c92e796a.gif)
-  </p>
+
 <a align = "center" href="https://top.gg/bot/889026555454582804">
   <img align = "center" src="https://top.gg/api/widget/owner/889026555454582804.svg">
 </a>
