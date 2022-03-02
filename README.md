@@ -31,4 +31,5 @@ Currently into JavaScript, HTML, CSS...
   
 <a align = "center" href="https://top.gg/bot/889026555454582804">
   <img align = "center" src="https://top.gg/api/widget/owner/889026555454582804.svg">
-</a>
+</a>![coding](https://user-images.githubusercontent.com/82384593/156414576-198f3a90-a5c2-4348-a9fb-0cf46107a7e2.gif)
+
