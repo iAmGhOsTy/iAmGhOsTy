@@ -5,10 +5,10 @@
 ![](https://komarev.com/ghpvc/?username=iAmGhOsTy)
 
 # Hi, I'm GhOsTy! 👋
-  <p>
+
 ![coding](https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif)
 
-  </p>
+
   
 ## 🚀 About Me
 - 👀 I’m interested in ... interests
