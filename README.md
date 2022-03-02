@@ -28,8 +28,9 @@ Currently into JavaScript, HTML, CSS...
 </p>
  <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmGhOsTy&layout=compact&theme=tokyonight" />
+  <p>
   ![coding](https://user-images.githubusercontent.com/82384593/156415001-37540de0-6055-4a5f-bbbe-6f0903b6cf3f.gif)
-
+  </p>
 <a align = "center" href="https://top.gg/bot/889026555454582804">
   <img align = "center" src="https://top.gg/api/widget/owner/889026555454582804.svg">
 </a>
