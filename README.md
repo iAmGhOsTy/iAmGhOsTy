@@ -28,7 +28,7 @@ Currently into JavaScript, HTML, CSS...
  <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmGhOsTy&layout=compact&theme=tokyonight" />
  ![coding](https://user-images.githubusercontent.com/82384593/135721846-833d636c-f5fc-45d5-9ac8-d549568b4f4c.gif)
- ![GHOSTY's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAmGhOsTy)](https://github.com/anuraghazra/github-readme-stats)
+
   
 <a align = "center" href="https://top.gg/bot/889026555454582804">
   <img align = "center" src="https://top.gg/api/widget/owner/889026555454582804.svg">
