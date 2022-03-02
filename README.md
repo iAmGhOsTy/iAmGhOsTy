@@ -31,8 +31,8 @@ Currently into JavaScript, HTML, CSS...
 </p>
  <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmGhOsTy&layout=compact&theme=tokyonight" />
-
+<p>
 <a align = "center" href="https://top.gg/bot/889026555454582804">
   <img align = "center" src="https://top.gg/api/widget/owner/889026555454582804.svg">
 </a>
-
+</p>
