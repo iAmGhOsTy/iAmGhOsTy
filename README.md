@@ -1,8 +1,5 @@
-
-
-![DISCORD](https://discord.c99.nl/widget/theme-3/798245188413816833.png)
 # Hi, I'm GhOsTy! 👋
-
+![DISCORD](https://discord.c99.nl/widget/theme-3/798245188413816833.png)
 ![coding](https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif)
 
 
