@@ -11,11 +11,10 @@
 
   
 ## 🚀 About Me
-- 👀 I’m interested in ... interests
-- 🌱 I’m currently learning ... everything i can
-
-- 💞️ I’m looking to collaborate on ... hmm thinking rn
-- 📫 How to reach me ... discord: G H O S T Y#2607
+- 👀 I’m interested in code.
+- 🌱 I’m currently learning everything i can.
+- 💞️ I'm not looking to collaborate at the moment.
+- 📫 You can reach me on discord: G H O S T Y#2607
 
   
 ## 🛠 Skills
