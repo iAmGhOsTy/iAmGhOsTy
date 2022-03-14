@@ -1,21 +1,14 @@
-
-
-![DISCORD](https://discord.c99.nl/widget/theme-3/798245188413816833.png)
-
-![](https://komarev.com/ghpvc/?username=iAmGhOsTy)
-
 # Hi, I'm GhOsTy! 👋
-
+![DISCORD](https://discord.c99.nl/widget/theme-3/798245188413816833.png)
 ![coding](https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif)
 
 
   
 ## 🚀 About Me
-- 👀 I’m interested in ... interests
-- 🌱 I’m currently learning ... everything i can
-
-- 💞️ I’m looking to collaborate on ... hmm thinking rn
-- 📫 How to reach me ... discord: G H O S T Y#2607
+- 👀 I’m interested in code.
+- 🌱 I’m currently learning everything i can.
+- 💞️ I'm not looking to collaborate at the moment.
+- 📫 You can reach me on discord: G H O S T Y#2607
 
   
 ## 🛠 Skills
@@ -36,3 +29,5 @@ Currently into JavaScript, HTML, CSS...
   <img align = "center" src="https://top.gg/api/widget/owner/889026555454582804.svg">
 </a>
 </p>
+![](https://komarev.com/ghpvc/?username=iAmGhOsTy)
+
