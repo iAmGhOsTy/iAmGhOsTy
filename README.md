@@ -30,4 +30,5 @@ Currently into JavaScript, HTML, CSS...
 </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=iAmGhOsTy)
 
