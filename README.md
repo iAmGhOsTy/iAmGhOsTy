@@ -28,6 +28,9 @@ Currently into JavaScript, HTML, CSS...
 <a align = "center" href="https://top.gg/bot/889026555454582804">
   <img align = "center" src="https://top.gg/api/widget/owner/889026555454582804.svg">
 </a>
+<a href="https://top.gg/bot/977584064808767518">
+  <img src="https://top.gg/api/widget/owner/977584064808767518.svg">
+</a>
 </p>
 
 
