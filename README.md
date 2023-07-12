@@ -8,7 +8,7 @@
 - 👀 I’m interested in code.
 - 🌱 I’m currently learning everything i can.
 - 💞️ I'm not looking to collaborate at the moment.
-- 📫 You can reach me on discord: G H O S T Y#2607
+- 📫 You can reach me on discord: not.ghosty
 
   
 ## 🛠 Skills
