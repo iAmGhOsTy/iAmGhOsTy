@@ -14,6 +14,7 @@
 ## 🛠 Skills
 Currently into JavaScript, HTML, CSS...
 <p>
+<img src = "![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)"/>
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
